@@ -1,0 +1,2 @@
+C:/work/Thread*/ filter=lfs diff=lfs merge=lfs -text
+C:/work/Thread/* filter=lfs diff=lfs merge=lfs -text
